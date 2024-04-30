@@ -1,4 +1,4 @@
-# POS-Tag-Disagreement-
+# POS-Tagger-Learning-From- Disagreement
 
 Human-annotated data plays an important role in Natural Language Processing (NLP), but it is based on
 primitive assumptions that a single gold label justifies the correct interpretation of the semantics in any language. 
@@ -10,3 +10,5 @@ The disparity has been found in almost every dataset annotated with human judgem
 While most artificial intelligence (AI) learning still assumes that each item has a single (gold) interpretation, which is an idealization, this study aims to research different state of art deep learning methods and develop an integrated testing framework, for learning from data with multiple variables as well as possibly contradictory annotations from the most well-known data set containing data about interpreting disagreements in language.
 
 It provides strategies and comparative study of different machine learning models for Gimpel et al- POS corpus, which is evidently known for the disparity in crowd annotation
+
+Debunking Gold Label Idealization with Crowd Annotation https://medium.com/@antratripathi_at/debunking-gold-label-idealization-with-crowd-annotation-3b2113deee4b
